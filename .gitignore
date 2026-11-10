@@ -1,0 +1,8 @@
+.preview/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*备份*.json
+*backup*.json
